@@ -1,2 +1,2 @@
-# agile
-An attempt to capture the essence of Agile principles and concepts
+# notes-on-agile
+My personal notes on Agile
