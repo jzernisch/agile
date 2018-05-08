@@ -1,2 +1,2 @@
 # notes-on-agile
-My personal notes on Agile
+My personal [notes](notes.md) on Agile
