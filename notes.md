@@ -1,5 +1,13 @@
 # Notes On Agile
 
+## Uncertainty and Variability
+
+- Domains where existing products are _repeated_ (like manufacturing) have a low degree of uncertainty.
+- Domains where _unique_ products are _created_ (like product development) have a high degree of uncertainty:
+  - What do build? Markets and thus requirements change over time, and even if they don't, we cant't know the details upfront.
+  - How to build it (which technologies to use)?
+- Variablity is inevitable and thus need to be managed. Embracing it enables us to maximize business value.
+
 ## Validating Assumptions
 
 - In domains with high uncertainty, we have to base our decisions on assumptions. 
