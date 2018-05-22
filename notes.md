@@ -6,6 +6,7 @@
 - Domains where _unique_ products are _created_ (like product development) have a high degree of uncertainty:
   - What do build? Markets and thus requirements change over time, and even if they don't, we cant't know the details upfront.
   - How to build it (which technologies to use)?
+- People are highly variable (as they are individuals), which of course is independent of any domain.
 - Variablity is inevitable and thus need to be managed. Embracing it enables us to maximize business value.
 
 ## Validating Assumptions
