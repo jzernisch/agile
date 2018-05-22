@@ -20,7 +20,7 @@
 ## Defined vs Empirical Process Control
 
 - Defined Process Control relies on prediction of the things involved in the process and defines it accordingly, assuming the environment is predictiable (low variability and uncertainty).
-- Empirical Process Control relies on continuous inspection and adaptation of the things involved in the process, assuming the environment is unpredictable (high variabilty and uncertainty).
+- Empirical Process Control relies on continuous [inspection and adaptation](#inspect-and-adapt) of the things involved in the process, assuming the environment is unpredictable (high variabilty and uncertainty).
 
 ## Inspect and Adapt
 
