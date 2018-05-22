@@ -22,6 +22,13 @@
 - Defined Process Control relies on prediction of the things involved in the process and defines it accordingly, assuming the environment is predictiable (low variability and uncertainty).
 - Empirical Process Control relies on continuous inspection and adaptation of the things involved in the process, assuming the environment is unpredictable (high variabilty and uncertainty).
 
+## Inspect and Adapt
+
+- Principle of inspecting something and adapting it based on the feedback gathered.
+- Can be applied to anything: products, processes, people.
+- Transparency is key for the inspection part.
+- Creates a learning loop. If learning is in focus (like in a startup environment), this loop is also called _Build, Measure, Learn_ (Lean Startup).
+
 ## Feedback
 
 - Feedback can be used to validate or invalidate assumptions empirically. 
