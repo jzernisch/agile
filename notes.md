@@ -29,6 +29,12 @@
 - Transparency is key for the inspection part.
 - Creates a learning loop. If learning is in focus (like in a startup environment), this loop is also called _Build, Measure, Learn_ (Lean Startup).
 
+## Iterative and Incremental Development
+
+- Iterative Development means continuous application of Inspect and Adapt (vs trying to "get it right" the first time).
+- Incremental Development means instead building and releasing parts of the whole (small batches) vs releasing once in a Big Bang.
+- Note that the concepts do not imply each other.
+
 ## Feedback
 
 - Feedback can be used to validate or invalidate assumptions empirically. 
