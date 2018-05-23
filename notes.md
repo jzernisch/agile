@@ -39,3 +39,8 @@
 
 - Feedback can be used to validate or invalidate assumptions empirically. 
 - We get feedback on a product by using it (preferably by the people who it is built for).
+
+## Transparency
+
+- Transparency maximizes information available to everyone is required to make informed decisions (especially important for [Inspect and Adapt](#inspect-and-adapt)).
+- Transparency builds trust between people.
