@@ -39,3 +39,8 @@
 
 - Transparency maximizes information available to everyone is required to make informed decisions (especially important for [Inspect and Adapt](#inspect-and-adapt)).
 - Transparency builds trust between people.
+
+## Quality
+
+- Something has high quality if it creates a high user value and low failure demand (requires wasteful rework, bugs, defects, bad UX, etc).
+- As good quality implies low failure demand, it keeps the cost of future changes under control and thus facilitates predictability.
