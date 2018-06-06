@@ -49,3 +49,4 @@
 
 - Scope vs Resources vs Quality: If 2 of them are fixed, the third one must be allow to vary (in uncertain environments).
 - Assuming we don't want to compromise [Quality](#quality) and the only variable resource is time, we have to choose between _timeboxing_ and _scopeboxing_.
+- If we want to keep delivery date and cost under control, the best choice is to timebox and focus on the most important deliverables first.
