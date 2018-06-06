@@ -44,3 +44,8 @@
 
 - Something has high quality if it creates a high user value and low failure demand (requires wasteful rework, bugs, defects, bad UX, etc).
 - As good quality implies low failure demand, it keeps the cost of future changes under control and thus facilitates predictability.
+
+## The Iron Triangle
+
+- Scope vs Resources vs Quality: If 2 of them are fixed, the third one must be allow to vary (in uncertain environments).
+- Assuming we don't want to compromise [Quality](#quality) and the only variable resource is time, we have to choose between _timeboxing_ and _scopeboxing_.
