@@ -4,8 +4,8 @@
 
 - Domains where existing products are _repeated_ (like manufacturing) have a low degree of uncertainty.
 - Domains where _unique_ products are _created_ (like product development) have a high degree of uncertainty:
-  - What do build? Markets and thus requirements change over time, and even if they don't, we can't know the details upfront.
-  - How to build it (which technologies to use)?
+  - What do build? Markets and thus requirements change over time, and even if they don't, we can't know the details upfront. (_end uncertainty_)
+  - How to build it, which technologies to use? (_means uncertainty_)
 - People are highly variable (as they are individuals), which of course is independent of any domain.
 - Variablity is inevitable and thus need to be managed. Embracing it enables us to maximize business value.
 
@@ -49,4 +49,5 @@
 
 - Scope vs Resources vs Quality: If 2 of them are fixed, the third one must be allow to vary (in uncertain environments).
 - Assuming we don't want to compromise [Quality](#quality) and the only variable resource is time, we have to choose between _timeboxing_ and _scopeboxing_.
-- If we want to keep delivery date and cost under control, the best choice is to timebox and focus on the most important deliverables first.
+- Scopeboxing is often just not possible, because of end uncertainty. Even if the scope could be fixed, delivery date and cost under control easily go out of hand, because of means uncertainty.
+- The best choice is to timebox and focus on the most important deliverables first.
