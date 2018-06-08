@@ -38,6 +38,7 @@
 ## Transparency
 
 - Transparency maximizes information available to everyone is required to make informed decisions (especially important for [Inspect and Adapt](#inspect-and-adapt)).
+- Transparency is required for revealing dysfunctions and areas for improvement.
 - Transparency builds trust between people.
 
 ## Quality
