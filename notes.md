@@ -17,6 +17,11 @@
 - By deferring decisions to the latest possible moment, we can "keep options open", meaning avoiding potential dependencies on our decision that make it hard to revert later.
 - Less WIP leads to shorter lead and cycle times, which in turn leads to faster feedback on our assumptions.
 
+## The Pull Principle
+
+- The Pull Principle each step in a value stream works on demand (when the downstream step "pulls"). This way bottlenecks become transparent and thus can be improved.
+- Pulling instead of Pushing work minimizes inventory.
+
 ## Defined vs Empirical Process Control
 
 - Defined Process Control relies on prediction of the things involved in the process and defines it accordingly, assuming the environment is predictiable (low variability and uncertainty).
