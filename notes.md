@@ -20,7 +20,6 @@
 ## The Pull Principle
 
 - Pull Principle: each step in a value stream works on demand i.e. when the downstream step "pulls". 
-- This way bottlenecks become transparent and thus can be improved.
 - Pulling instead of Pushing work minimizes inventory.
 
 ## Defined vs Empirical Process Control
