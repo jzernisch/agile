@@ -15,7 +15,12 @@
 - The longer an assumption stays invalidated, the more decisions may potentially depend on that assumption, and thus may be proven wrong if the assumption turns out to be invalid. 
 - In order to minimize waste, we should validate assumptions as fast as possible by gathering feedback. 
 - By deferring decisions to the latest possible moment, we can "keep options open", meaning avoiding potential dependencies on our decision that make it hard to revert later.
-- Less WIP leads to shorter lead and cycle times, which in turn leads to faster feedback on our assumptions.
+- Shorter cycle/lead times lead to faster feedback on our assumptions
+
+## WIP and cycle time
+
+- Little's Law (WIP = cycle time * throughput) implies that when throughput is constant, reducing WIP leads to shorter cycle times.
+- Less WIP also leads actually leads to higher throughput in practice, as context switching overhead is reduced.
 
 ## The Pull Principle
 
